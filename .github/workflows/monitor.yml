@@ -15,4 +15,4 @@ jobs:
 
     steps:
       - name: Check if page is up
-        run: curl -sSf https://whatever/
+        run: curl -sSf https://github.com/Ferah42/fuzzy-giggle/
